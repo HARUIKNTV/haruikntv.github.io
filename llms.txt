@@ -1,0 +1,7 @@
+# HARUIKNTV
+
+> 個人プロジェクト置き場。
+
+## Projects
+
+- [Weekly Apps 博覧会](https://haruikntv.github.io/weekly-apps/): 毎週金曜21:00に、ランダムジャンルの小さなアプリを1本ずつ自動生成・公開しているミニアプリ一覧サイト。各アプリはExpo (React Native + TypeScript) 製で、Webアプリ / PWAとして無料公開されている。詳細な一覧とLLM向けの説明は https://haruikntv.github.io/weekly-apps/llms.txt を参照。
