@@ -4,4 +4,4 @@
 
 ## Projects
 
-- [Weekly Apps 博覧会](https://haruikntv.github.io/weekly-apps/): 毎週金曜21:00に、ランダムジャンルの小さなアプリを1本ずつ自動生成・公開しているミニアプリ一覧サイト。各アプリはExpo (React Native + TypeScript) 製で、Webアプリ / PWAとして無料公開されている。詳細な一覧とLLM向けの説明は https://haruikntv.github.io/weekly-apps/llms.txt を参照。
+- [スロ設定判別ラボ](https://haruikntv.github.io/weekly-apps/): パチスロの公開設定差データ（CZ確率・キャラ示唆・カード示唆など）をもとに、機種ごとの設定判別ツールを毎週金曜21:00に1本ずつ追加している無料ツール集。各ツールはビルド不要の静的HTML/JSで、Webから無料で使える。詳細な一覧とLLM向けの説明は https://haruikntv.github.io/weekly-apps/llms.txt を参照。
