@@ -5,3 +5,4 @@
 ## Projects
 
 - [スロ設定判別ラボ](https://haruikntv.github.io/weekly-apps/): パチスロの公開設定差データ（CZ確率・キャラ示唆・カード示唆など）をもとに、機種ごとの設定判別ツールを毎週金曜21:00に1本ずつ追加している無料ツール集。各ツールはビルド不要の静的HTML/JSで、Webから無料で使える。詳細な一覧とLLM向けの説明は https://haruikntv.github.io/weekly-apps/llms.txt を参照。
+- [全レース競馬予想](https://deep-yosou-shimbun-haruikintv.vercel.app/): JRA全レースの予想を、オッズや騎手成績などの公開データをもとにした独自の簡易ロジックで算出する競馬予想サイト。毎週金曜19時頃にその週末のレースと予想を自動更新。予想は参考情報であり、的中や利益を保証するものではない。
