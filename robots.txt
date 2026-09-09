@@ -29,5 +29,8 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
 Sitemap: https://haruikntv.github.io/sitemap.xml
 Sitemap: https://haruikntv.github.io/weekly-apps/sitemap.xml
