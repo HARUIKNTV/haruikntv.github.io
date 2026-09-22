@@ -1,0 +1,3662 @@
+[
+  {
+    "date": "2026-08-23",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 548,
+        "total_games": 4280,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -682,
+        "total_games": 3603,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 2304,
+        "total_games": 4016,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -465,
+        "total_games": 3530,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 68,
+        "total_games": 8588,
+        "counts": {
+          "BB": 26,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1406,
+        "total_games": 5739,
+        "counts": {
+          "BB": 15,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -500,
+        "total_games": 5060,
+        "counts": {
+          "BB": 14,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -67,
+        "total_games": 7954,
+        "counts": {
+          "BB": 20,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1321,
+        "total_games": 6649,
+        "counts": {
+          "BB": 17,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 964,
+        "total_games": 5220,
+        "counts": {
+          "BB": 14,
+          "RB": 5
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 61,
+        "total_games": 5251,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1572,
+        "total_games": 7076,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 840,
+        "total_games": 5152,
+        "counts": {
+          "大当り": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 115,
+        "total_games": 7559,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 796,
+        "total_games": 6886,
+        "counts": {
+          "BB": 16,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -2412,
+        "total_games": 4500,
+        "counts": {
+          "BB": 8,
+          "RB": 6
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -967,
+        "total_games": 5253,
+        "counts": {
+          "BB": 17,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -505,
+        "total_games": 7656,
+        "counts": {
+          "BB": 19,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1090,
+        "total_games": 5140,
+        "counts": {
+          "BB": 12,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -371,
+        "total_games": 5231,
+        "counts": {
+          "BB": 15,
+          "RB": 13
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -455,
+        "total_games": 5375,
+        "counts": {
+          "大当り": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -883,
+        "total_games": 7901,
+        "counts": {
+          "大当り": 28
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1512,
+        "total_games": 6230,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1987,
+        "total_games": 3094,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1644,
+        "total_games": 6545,
+        "counts": {
+          "BB": 17,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -21,
+        "total_games": 4654,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 386,
+        "total_games": 6489,
+        "counts": {
+          "BB": 16,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -758,
+        "total_games": 7632,
+        "counts": {
+          "BB": 24,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -373,
+        "total_games": 7021,
+        "counts": {
+          "BB": 18,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -90,
+        "total_games": 4532,
+        "counts": {
+          "BB": 13,
+          "RB": 8
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -2009,
+        "total_games": 4621,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1274,
+        "total_games": 5786,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 771,
+        "total_games": 7559,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1672,
+        "total_games": 6137,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 176,
+        "total_games": 5569,
+        "counts": {
+          "BB": 15,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -517,
+        "total_games": 8682,
+        "counts": {
+          "BB": 23,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1254,
+        "total_games": 4504,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1266,
+        "total_games": 7389,
+        "counts": {
+          "BB": 17,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 433,
+        "total_games": 8862,
+        "counts": {
+          "BB": 19,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 480,
+        "total_games": 5365,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -264,
+        "total_games": 4664,
+        "counts": {
+          "大当り": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -911,
+        "total_games": 3417,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 1855,
+        "total_games": 3943,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -2,
+        "total_games": 6654,
+        "counts": {
+          "大当り": 26
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 623,
+        "total_games": 6976,
+        "counts": {
+          "BB": 18,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 674,
+        "total_games": 5748,
+        "counts": {
+          "BB": 15,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -365,
+        "total_games": 7504,
+        "counts": {
+          "BB": 15,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -107,
+        "total_games": 7289,
+        "counts": {
+          "BB": 20,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -733,
+        "total_games": 8751,
+        "counts": {
+          "BB": 24,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -196,
+        "total_games": 5879,
+        "counts": {
+          "BB": 20,
+          "RB": 8
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -61,
+        "total_games": 3346,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 193,
+        "total_games": 3918,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1689,
+        "total_games": 4779,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1308,
+        "total_games": 3961,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 153,
+        "total_games": 5609,
+        "counts": {
+          "BB": 13,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1298,
+        "total_games": 5911,
+        "counts": {
+          "BB": 14,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1223,
+        "total_games": 4274,
+        "counts": {
+          "BB": 10,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 220,
+        "total_games": 8566,
+        "counts": {
+          "BB": 21,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 280,
+        "total_games": 8976,
+        "counts": {
+          "BB": 24,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 1527,
+        "total_games": 7583,
+        "counts": {
+          "BB": 25,
+          "RB": 16
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -51,
+        "total_games": 7948,
+        "counts": {
+          "大当り": 26
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 97,
+        "total_games": 7181,
+        "counts": {
+          "大当り": 26
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -622,
+        "total_games": 7237,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 771,
+        "total_games": 6146,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 709,
+        "total_games": 5332,
+        "counts": {
+          "BB": 13,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -634,
+        "total_games": 8053,
+        "counts": {
+          "BB": 20,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -438,
+        "total_games": 6340,
+        "counts": {
+          "BB": 20,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -930,
+        "total_games": 5760,
+        "counts": {
+          "BB": 13,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 337,
+        "total_games": 5323,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 1204,
+        "total_games": 7178,
+        "counts": {
+          "BB": 16,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 3,
+        "total_games": 7896,
+        "counts": {
+          "大当り": 29
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1424,
+        "total_games": 4281,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 1013,
+        "total_games": 5611,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -230,
+        "total_games": 7881,
+        "counts": {
+          "大当り": 34
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -870,
+        "total_games": 4870,
+        "counts": {
+          "BB": 10,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 533,
+        "total_games": 8635,
+        "counts": {
+          "BB": 22,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 508,
+        "total_games": 4560,
+        "counts": {
+          "BB": 12,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -813,
+        "total_games": 5382,
+        "counts": {
+          "BB": 11,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 222,
+        "total_games": 5375,
+        "counts": {
+          "BB": 11,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 1401,
+        "total_games": 4231,
+        "counts": {
+          "BB": 11,
+          "RB": 9
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -976,
+        "total_games": 4728,
+        "counts": {
+          "大当り": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 997,
+        "total_games": 3702,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 797,
+        "total_games": 7391,
+        "counts": {
+          "大当り": 28
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -6,
+        "total_games": 5038,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -582,
+        "total_games": 7392,
+        "counts": {
+          "BB": 18,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -2287,
+        "total_games": 5392,
+        "counts": {
+          "BB": 13,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 212,
+        "total_games": 5848,
+        "counts": {
+          "BB": 17,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -8,
+        "total_games": 6627,
+        "counts": {
+          "BB": 18,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1049,
+        "total_games": 6823,
+        "counts": {
+          "BB": 16,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 822,
+        "total_games": 4242,
+        "counts": {
+          "BB": 9,
+          "RB": 5
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1031,
+        "total_games": 6204,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 2233,
+        "total_games": 6727,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -406,
+        "total_games": 6310,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1474,
+        "total_games": 7138,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1622,
+        "total_games": 4826,
+        "counts": {
+          "BB": 13,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -465,
+        "total_games": 4812,
+        "counts": {
+          "BB": 7,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 771,
+        "total_games": 5952,
+        "counts": {
+          "BB": 15,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -522,
+        "total_games": 7580,
+        "counts": {
+          "BB": 20,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 142,
+        "total_games": 5072,
+        "counts": {
+          "BB": 12,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -403,
+        "total_games": 8239,
+        "counts": {
+          "BB": 19,
+          "RB": 15
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1554,
+        "total_games": 3933,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1235,
+        "total_games": 3599,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 269,
+        "total_games": 5856,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1414,
+        "total_games": 5553,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1366,
+        "total_games": 7428,
+        "counts": {
+          "BB": 23,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1416,
+        "total_games": 5439,
+        "counts": {
+          "BB": 13,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 539,
+        "total_games": 8030,
+        "counts": {
+          "BB": 22,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1034,
+        "total_games": 5152,
+        "counts": {
+          "BB": 16,
+          "RB": 6
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1380,
+        "total_games": 8381,
+        "counts": {
+          "BB": 20,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -420,
+        "total_games": 7279,
+        "counts": {
+          "BB": 16,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 185,
+        "total_games": 4789,
+        "counts": {
+          "大当り": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 434,
+        "total_games": 6115,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1946,
+        "total_games": 6749,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1590,
+        "total_games": 6722,
+        "counts": {
+          "大当り": 27
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1070,
+        "total_games": 4783,
+        "counts": {
+          "BB": 15,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -179,
+        "total_games": 5883,
+        "counts": {
+          "BB": 18,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1114,
+        "total_games": 8742,
+        "counts": {
+          "BB": 23,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 181,
+        "total_games": 6971,
+        "counts": {
+          "BB": 16,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1694,
+        "total_games": 6719,
+        "counts": {
+          "BB": 17,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -398,
+        "total_games": 8527,
+        "counts": {
+          "BB": 20,
+          "RB": 14
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1143,
+        "total_games": 3039,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 810,
+        "total_games": 7556,
+        "counts": {
+          "大当り": 30
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -862,
+        "total_games": 3480,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 585,
+        "total_games": 5643,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -637,
+        "total_games": 4350,
+        "counts": {
+          "BB": 10,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -527,
+        "total_games": 5992,
+        "counts": {
+          "BB": 17,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 507,
+        "total_games": 5196,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -298,
+        "total_games": 6480,
+        "counts": {
+          "BB": 19,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1112,
+        "total_games": 8966,
+        "counts": {
+          "BB": 22,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 1341,
+        "total_games": 6780,
+        "counts": {
+          "BB": 18,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -729,
+        "total_games": 4488,
+        "counts": {
+          "大当り": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1360,
+        "total_games": 6637,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -963,
+        "total_games": 4597,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -512,
+        "total_games": 4463,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -641,
+        "total_games": 6926,
+        "counts": {
+          "BB": 17,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 150,
+        "total_games": 6362,
+        "counts": {
+          "BB": 14,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1449,
+        "total_games": 6960,
+        "counts": {
+          "BB": 16,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -362,
+        "total_games": 6663,
+        "counts": {
+          "BB": 15,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 187,
+        "total_games": 7326,
+        "counts": {
+          "BB": 18,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 343,
+        "total_games": 8032,
+        "counts": {
+          "BB": 19,
+          "RB": 15
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 810,
+        "total_games": 6610,
+        "counts": {
+          "大当り": 26
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -72,
+        "total_games": 5440,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1358,
+        "total_games": 5148,
+        "counts": {
+          "大当り": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 413,
+        "total_games": 5730,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -779,
+        "total_games": 6274,
+        "counts": {
+          "BB": 17,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 146,
+        "total_games": 8674,
+        "counts": {
+          "BB": 21,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1379,
+        "total_games": 4739,
+        "counts": {
+          "BB": 11,
+          "RB": 3
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -671,
+        "total_games": 7773,
+        "counts": {
+          "BB": 16,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 129,
+        "total_games": 7465,
+        "counts": {
+          "BB": 19,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 358,
+        "total_games": 5103,
+        "counts": {
+          "BB": 15,
+          "RB": 9
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -33,
+        "total_games": 5928,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -353,
+        "total_games": 6407,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 986,
+        "total_games": 5047,
+        "counts": {
+          "大当り": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 197,
+        "total_games": 5743,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1692,
+        "total_games": 7134,
+        "counts": {
+          "BB": 19,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1105,
+        "total_games": 6787,
+        "counts": {
+          "BB": 13,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 85,
+        "total_games": 4026,
+        "counts": {
+          "BB": 8,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -742,
+        "total_games": 8598,
+        "counts": {
+          "BB": 22,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -684,
+        "total_games": 8802,
+        "counts": {
+          "BB": 22,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -100,
+        "total_games": 7029,
+        "counts": {
+          "BB": 16,
+          "RB": 11
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1750,
+        "total_games": 4905,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -2289,
+        "total_games": 3000,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -472,
+        "total_games": 6947,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 1332,
+        "total_games": 3481,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1005,
+        "total_games": 6083,
+        "counts": {
+          "BB": 15,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1311,
+        "total_games": 5565,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1847,
+        "total_games": 6114,
+        "counts": {
+          "BB": 14,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -783,
+        "total_games": 8814,
+        "counts": {
+          "BB": 24,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1015,
+        "total_games": 7897,
+        "counts": {
+          "BB": 19,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 53,
+        "total_games": 6777,
+        "counts": {
+          "BB": 19,
+          "RB": 14
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -328,
+        "total_games": 7531,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 911,
+        "total_games": 6937,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1586,
+        "total_games": 5137,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -99,
+        "total_games": 7324,
+        "counts": {
+          "大当り": 28
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 320,
+        "total_games": 7725,
+        "counts": {
+          "BB": 20,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -198,
+        "total_games": 8769,
+        "counts": {
+          "BB": 23,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 14,
+        "total_games": 4426,
+        "counts": {
+          "BB": 7,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1114,
+        "total_games": 5301,
+        "counts": {
+          "BB": 15,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1318,
+        "total_games": 7188,
+        "counts": {
+          "BB": 18,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -555,
+        "total_games": 4232,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 645,
+        "total_games": 4653,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1542,
+        "total_games": 5804,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1502,
+        "total_games": 5148,
+        "counts": {
+          "大当り": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1716,
+        "total_games": 5126,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1718,
+        "total_games": 6946,
+        "counts": {
+          "BB": 16,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -457,
+        "total_games": 4094,
+        "counts": {
+          "BB": 12,
+          "RB": 5
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 425,
+        "total_games": 8946,
+        "counts": {
+          "BB": 20,
+          "RB": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1241,
+        "total_games": 7916,
+        "counts": {
+          "BB": 20,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 619,
+        "total_games": 4981,
+        "counts": {
+          "BB": 12,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 888,
+        "total_games": 6632,
+        "counts": {
+          "BB": 17,
+          "RB": 14
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 273,
+        "total_games": 3601,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 470,
+        "total_games": 5294,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -2215,
+        "total_games": 3664,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -755,
+        "total_games": 3336,
+        "counts": {
+          "大当り": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1306,
+        "total_games": 6800,
+        "counts": {
+          "BB": 15,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 436,
+        "total_games": 6010,
+        "counts": {
+          "BB": 12,
+          "RB": 6
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -819,
+        "total_games": 4343,
+        "counts": {
+          "BB": 10,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1059,
+        "total_games": 4971,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1600,
+        "total_games": 5248,
+        "counts": {
+          "BB": 16,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 253,
+        "total_games": 4055,
+        "counts": {
+          "BB": 9,
+          "RB": 9
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 396,
+        "total_games": 5973,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -946,
+        "total_games": 6214,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 1836,
+        "total_games": 4566,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -607,
+        "total_games": 7090,
+        "counts": {
+          "大当り": 28
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 237,
+        "total_games": 7714,
+        "counts": {
+          "BB": 22,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -601,
+        "total_games": 8620,
+        "counts": {
+          "BB": 19,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -185,
+        "total_games": 4944,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 678,
+        "total_games": 8897,
+        "counts": {
+          "BB": 22,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 224,
+        "total_games": 6914,
+        "counts": {
+          "BB": 18,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 302,
+        "total_games": 5264,
+        "counts": {
+          "BB": 13,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -424,
+        "total_games": 7881,
+        "counts": {
+          "大当り": 26
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1808,
+        "total_games": 3773,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 558,
+        "total_games": 7884,
+        "counts": {
+          "大当り": 27
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -579,
+        "total_games": 5653,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1143,
+        "total_games": 8349,
+        "counts": {
+          "BB": 21,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 932,
+        "total_games": 6987,
+        "counts": {
+          "BB": 15,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1729,
+        "total_games": 5548,
+        "counts": {
+          "BB": 13,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -568,
+        "total_games": 6997,
+        "counts": {
+          "BB": 22,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -345,
+        "total_games": 7765,
+        "counts": {
+          "BB": 18,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 68,
+        "total_games": 7450,
+        "counts": {
+          "BB": 22,
+          "RB": 12
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -2516,
+        "total_games": 7253,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -179,
+        "total_games": 6195,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 94,
+        "total_games": 6070,
+        "counts": {
+          "大当り": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -959,
+        "total_games": 6344,
+        "counts": {
+          "大当り": 25
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -486,
+        "total_games": 4669,
+        "counts": {
+          "BB": 12,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1621,
+        "total_games": 8886,
+        "counts": {
+          "BB": 21,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 898,
+        "total_games": 8223,
+        "counts": {
+          "BB": 18,
+          "RB": 16
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 222,
+        "total_games": 7370,
+        "counts": {
+          "BB": 15,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 635,
+        "total_games": 5397,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -279,
+        "total_games": 7659,
+        "counts": {
+          "BB": 19,
+          "RB": 15
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -240,
+        "total_games": 3843,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 857,
+        "total_games": 6789,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 2741,
+        "total_games": 7325,
+        "counts": {
+          "大当り": 30
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 658,
+        "total_games": 3547,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -360,
+        "total_games": 6216,
+        "counts": {
+          "BB": 17,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 340,
+        "total_games": 7693,
+        "counts": {
+          "BB": 21,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1057,
+        "total_games": 7441,
+        "counts": {
+          "BB": 21,
+          "RB": 18
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -716,
+        "total_games": 4661,
+        "counts": {
+          "BB": 12,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1310,
+        "total_games": 8436,
+        "counts": {
+          "BB": 24,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -796,
+        "total_games": 5854,
+        "counts": {
+          "BB": 15,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -1722,
+        "total_games": 7098,
+        "counts": {
+          "大当り": 27
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 2352,
+        "total_games": 7850,
+        "counts": {
+          "大当り": 27
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 2330,
+        "total_games": 7341,
+        "counts": {
+          "大当り": 29
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 182,
+        "total_games": 3964,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 624,
+        "total_games": 4711,
+        "counts": {
+          "BB": 14,
+          "RB": 6
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -779,
+        "total_games": 5333,
+        "counts": {
+          "BB": 11,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 715,
+        "total_games": 6466,
+        "counts": {
+          "BB": 19,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -312,
+        "total_games": 4932,
+        "counts": {
+          "BB": 12,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 475,
+        "total_games": 6800,
+        "counts": {
+          "BB": 17,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -403,
+        "total_games": 8762,
+        "counts": {
+          "BB": 21,
+          "RB": 21
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 619,
+        "total_games": 7615,
+        "counts": {
+          "大当り": 29
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 870,
+        "total_games": 3329,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1155,
+        "total_games": 6772,
+        "counts": {
+          "大当り": 22
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -176,
+        "total_games": 6215,
+        "counts": {
+          "大当り": 19
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1475,
+        "total_games": 6905,
+        "counts": {
+          "BB": 19,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 188,
+        "total_games": 4588,
+        "counts": {
+          "BB": 12,
+          "RB": 5
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 709,
+        "total_games": 6718,
+        "counts": {
+          "BB": 17,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1130,
+        "total_games": 7591,
+        "counts": {
+          "BB": 21,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1415,
+        "total_games": 5349,
+        "counts": {
+          "BB": 11,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 544,
+        "total_games": 5539,
+        "counts": {
+          "BB": 14,
+          "RB": 8
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 174,
+        "total_games": 5987,
+        "counts": {
+          "大当り": 23
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -716,
+        "total_games": 7821,
+        "counts": {
+          "大当り": 30
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 2078,
+        "total_games": 3966,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -583,
+        "total_games": 3239,
+        "counts": {
+          "大当り": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 960,
+        "total_games": 8497,
+        "counts": {
+          "BB": 16,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 95,
+        "total_games": 4061,
+        "counts": {
+          "BB": 8,
+          "RB": 6
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -501,
+        "total_games": 7090,
+        "counts": {
+          "BB": 16,
+          "RB": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1541,
+        "total_games": 6955,
+        "counts": {
+          "BB": 16,
+          "RB": 10
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -255,
+        "total_games": 4134,
+        "counts": {
+          "BB": 10,
+          "RB": 7
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -211,
+        "total_games": 7502,
+        "counts": {
+          "BB": 20,
+          "RB": 12
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -539,
+        "total_games": 3838,
+        "counts": {
+          "大当り": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": -376,
+        "total_games": 3850,
+        "counts": {
+          "大当り": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -605,
+        "total_games": 5683,
+        "counts": {
+          "大当り": 20
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 327,
+        "total_games": 3208,
+        "counts": {
+          "大当り": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 1919,
+        "total_games": 5789,
+        "counts": {
+          "BB": 13,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 56,
+        "total_games": 4986,
+        "counts": {
+          "BB": 15,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -65,
+        "total_games": 5372,
+        "counts": {
+          "BB": 19,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -323,
+        "total_games": 5798,
+        "counts": {
+          "BB": 9,
+          "RB": 11
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 487,
+        "total_games": 8576,
+        "counts": {
+          "BB": 18,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -287,
+        "total_games": 4736,
+        "counts": {
+          "BB": 9,
+          "RB": 10
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 2261,
+        "total_games": 7568,
+        "counts": {
+          "大当り": 29
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1058,
+        "total_games": 6449,
+        "counts": {
+          "大当り": 21
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1132,
+        "total_games": 3006,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 953,
+        "total_games": 4362,
+        "counts": {
+          "大当り": 17
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 907,
+        "total_games": 4107,
+        "counts": {
+          "BB": 12,
+          "RB": 8
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 316,
+        "total_games": 5787,
+        "counts": {
+          "BB": 14,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -445,
+        "total_games": 6355,
+        "counts": {
+          "BB": 17,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 362,
+        "total_games": 7195,
+        "counts": {
+          "BB": 17,
+          "RB": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": -1053,
+        "total_games": 4885,
+        "counts": {
+          "BB": 12,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": 966,
+        "total_games": 5062,
+        "counts": {
+          "BB": 15,
+          "RB": 6
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "store": "丸三三刀屋店(サンプル)",
+    "machines": [
+      {
+        "unit_no": "101",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 1474,
+        "total_games": 6488,
+        "counts": {
+          "大当り": 24
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "102",
+        "model": "Pサンプル海物語A",
+        "genre": "pachinko",
+        "diff": 411,
+        "total_games": 3852,
+        "counts": {
+          "大当り": 12
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "118",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": 578,
+        "total_games": 6943,
+        "counts": {
+          "大当り": 28
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "119",
+        "model": "Pフィーバーサンプル戦記",
+        "genre": "pachinko",
+        "diff": -1238,
+        "total_games": 7007,
+        "counts": {
+          "大当り": 27
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "205",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -620,
+        "total_games": 6157,
+        "counts": {
+          "BB": 18,
+          "RB": 14
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "206",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": -1236,
+        "total_games": 7368,
+        "counts": {
+          "BB": 18,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "207",
+        "model": "Lサンプルジャグラー",
+        "genre": "slot",
+        "diff": 304,
+        "total_games": 7560,
+        "counts": {
+          "BB": 18,
+          "RB": 15
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "230",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 217,
+        "total_games": 6701,
+        "counts": {
+          "BB": 17,
+          "RB": 13
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "231",
+        "model": "Sサンプル物語~絆~",
+        "genre": "slot",
+        "diff": 1194,
+        "total_games": 6317,
+        "counts": {
+          "BB": 17,
+          "RB": 9
+        },
+        "note": ""
+      },
+      {
+        "unit_no": "260",
+        "model": "Sサンプル拳王",
+        "genre": "slot",
+        "diff": -227,
+        "total_games": 4367,
+        "counts": {
+          "BB": 12,
+          "RB": 5
+        },
+        "note": ""
+      }
+    ]
+  }
+]

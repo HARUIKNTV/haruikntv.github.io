@@ -1,0 +1,86 @@
+name: mitoya-daidata 台データ取り込み
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "mitoya-daidata/incoming/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ingestion tool deps
+        working-directory: mitoya-daidata/tools
+        run: npm install --omit=dev
+
+      - name: Find new images in incoming/
+        id: find
+        run: |
+          set -euo pipefail
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            FILES=$(git ls-files 'mitoya-daidata/incoming/*.jpg' 'mitoya-daidata/incoming/*.jpeg' 'mitoya-daidata/incoming/*.png' 'mitoya-daidata/incoming/*.webp' || true)
+          else
+            FILES=$(git diff --name-only --diff-filter=AM "$BEFORE" "$AFTER" -- 'mitoya-daidata/incoming/*.jpg' 'mitoya-daidata/incoming/*.jpeg' 'mitoya-daidata/incoming/*.png' 'mitoya-daidata/incoming/*.webp' || true)
+          fi
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Parse images and update history.json
+        if: steps.find.outputs.files != ''
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -euo pipefail
+          declare -A GROUPS
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            base=$(basename "$f")
+            if [[ "$base" =~ ([0-9]{4}-[0-9]{2}-[0-9]{2}) ]]; then
+              date="${BASH_REMATCH[1]}"
+            else
+              echo "::warning file=$f::ファイル名から日付を特定できないためスキップします"
+              continue
+            fi
+            GROUPS["$date"]+="$f "
+          done <<< "${{ steps.find.outputs.files }}"
+
+          for date in "${!GROUPS[@]}"; do
+            echo "=== $date ==="
+            node mitoya-daidata/tools/parse-image.mjs --date "$date" ${GROUPS[$date]}
+            mkdir -p mitoya-daidata/processed
+            for f in ${GROUPS[$date]}; do
+              git mv "$f" "mitoya-daidata/processed/$(basename "$f")"
+            done
+          done
+
+      - name: Commit and push
+        if: steps.find.outputs.files != ''
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mitoya-daidata/data/history.json mitoya-daidata/processed mitoya-daidata/incoming
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "台データを自動取り込み"
+            git push
+          fi

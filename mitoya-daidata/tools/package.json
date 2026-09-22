@@ -1,0 +1,13 @@
+{
+  "name": "mitoya-daidata-tools",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "台データ画像を解析してdata/history.jsonに取り込むツール",
+  "scripts": {
+    "ingest": "node parse-image.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
+  }
+}
