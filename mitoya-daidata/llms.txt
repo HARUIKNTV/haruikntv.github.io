@@ -4,8 +4,10 @@
 > 見やすい表とグラフで表示し、過去の傾向を確認できる静的Webアプリ。ビルド不要のHTML/JS。
 
 - データは `data/history.json` に日付ごとに蓄積される（スキーマは README.md 参照）。
-- LINE配信のスクリーンショット画像を `incoming/` に置くと、GitHub ActionsとClaude Visionによる
-  画像解析で自動的に構造化データへ変換され、`data/history.json` に取り込まれる。
+- LINE配信、またはpscube.jp等のホールデータサイトを人が手動で開いて撮影したスクリーンショット
+  画像を `incoming/` に置くと、GitHub ActionsとClaude Visionによる画像解析で自動的に構造化
+  データへ変換され、`data/history.json` に取り込まれる（pscube.jp自体への無人・定期的な
+  自動スクレイピングは行わない。ボット対策(FingerprintJS/BotD/reCAPTCHA)が組み込まれているため）。
 - アプリはトップページのバナーから「サンプルデータでプレビュー」を選ぶと、ダミーデータで
   機能（表・機種別推移グラフ・平均差枚ランキング）を確認できる。実店舗のデータではない。
 - 詳細な運用手順とデータスキーマは README.md を参照。

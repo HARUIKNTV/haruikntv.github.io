@@ -1,6 +1,9 @@
 #!/usr/bin/env node
-// Parses LINE-broadcast 台データ screenshot(s) into data/history.json using
-// Claude's vision. Usage:
+// Parses 台データ screenshot(s) into data/history.json using Claude's vision.
+// Source-agnostic: works for LINE broadcast screenshots, manually-captured
+// pscube.jp (or any other hall data site) screenshots, etc. — anything a
+// person captured by hand while actually viewing the page themselves.
+// Usage:
 //   ANTHROPIC_API_KEY=... node parse-image.mjs --date 2026-09-22 img1.jpg [img2.jpg ...]
 // If --date is omitted, the date is taken from the first image's filename
 // (expects a leading YYYY-MM-DD).
@@ -21,7 +24,11 @@ const STORE_NAME = process.env.STORE_NAME || "丸三三刀屋店";
 const MODEL = process.env.CLAUDE_MODEL || "claude-sonnet-5";
 
 const SCHEMA_PROMPT = `あなたはパチンコ・パチスロ店の「台データ」画像を構造化データに変換するアシスタントです。
-渡された画像（LINE公式アカウントで配信された台データの表・スクリーンショット）を読み取り、
+渡される画像は、LINE公式アカウントで配信された台データの表のスクリーンショットの場合と、
+pscube.jp等のホールデータサイトを人が実際に開いて手動で撮影したスクリーンショットの場合が
+あります。画像は「複数台が並んだ一覧表」の場合と「1台だけの詳細画面（グラフ付きなど）」の
+場合の両方があり得ます。後者の場合はその1台を配列の要素1件として扱ってください。
+
 以下のJSONスキーマに厳密に従ったJSON配列だけを出力してください。説明文やコードフェンスは不要です。
 
 各要素（1台につき1オブジェクト）:
@@ -31,7 +38,7 @@ const SCHEMA_PROMPT = `あなたはパチンコ・パチスロ店の「台デー
   "genre": "pachinko" または "slot"（判別できない場合は空文字）,
   "diff": 差枚または差玉(符号付き整数。マイナスはマイナス表記),
   "total_games": 総回転数またはゲーム数(整数。読み取れなければnull),
-  "counts": { "BB": 0, "RB": 0 } のようなボーナス等の回数のオブジェクト（画像にある項目名をそのままキーにする。例: "大当り", "ART", "CZ" など。読み取れなければ空オブジェクト {} },
+  "counts": { "BB": 0, "RB": 0 } のようなボーナス等の回数のオブジェクト（画像にある項目名をそのままキーにする。例: "大当り", "ART", "CZ", "スタート" など。読み取れなければ空オブジェクト {} },
   "note": "その他の備考(確率表記など)。なければ空文字"
 }
 
